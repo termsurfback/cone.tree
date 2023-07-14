@@ -19,6 +19,20 @@
 <br/>
 <br/>
 
+## Usage
+
+```
+base save @tunebond/tree
+```
+
+```
+load @tunebond/tree
+  find code
+
+role code
+  file ./**/*.link
+```
+
 ## License
 
 Copyright 2023 <a href='https://tune.bond'>TuneBond</a>
