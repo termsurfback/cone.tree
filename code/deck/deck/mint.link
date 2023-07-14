@@ -1,5 +1,8 @@
 
-mint stack
+load @tunebond/mesh
+  find deck
+
+mint deck
   mine host, save host
   mine name, save name
   mine head, save head
