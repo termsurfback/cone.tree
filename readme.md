@@ -7,7 +7,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/tunebond/tree.link/blob/make/view/base.svg?raw=true' height='256'>
+  <img src='https://github.com/nerdbond/tree.link/blob/make/view/base.svg?raw=true' height='256'>
 </p>
 
 <h3 align='center'>tree.link</h3>
@@ -22,11 +22,11 @@
 ## Usage
 
 ```
-base save @tunebond/tree
+base save @nerdbond/tree
 ```
 
 ```
-load @tunebond/tree
+load @nerdbond/tree
   find code
 
 role code
@@ -35,7 +35,7 @@ role code
 
 ## License
 
-Copyright 2023 <a href='https://tune.bond'>TuneBond</a>
+Copyright 2023 <a href='https://nerd.bond'>NerdBond</a>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -49,6 +49,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-## TuneBond
+## NerdBond
 
-This is being developed by the folks at [TuneBond](https://tune.bond), a California-based project for helping humanity master information and computation. Find us on [Twitter](https://twitter.com/tunebond), [LinkedIn](https://www.linkedin.com/company/tunebond), and [Facebook](https://www.facebook.com/tunebond). Check out our other [GitHub projects](https://github.com/tunebond) as well!
+This is being developed by the folks at [NerdBond](https://nerd.bond), a California-based project for helping humanity master information and computation. Find us on [Twitter](https://twitter.com/nerdbond), [LinkedIn](https://www.linkedin.com/company/nerdbond), and [Facebook](https://www.facebook.com/nerdbond). Check out our other [GitHub projects](https://github.com/nerdbond) as well!
