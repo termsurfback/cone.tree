@@ -1,7 +1,7 @@
 
-load @nerdbond/drive/hatch/latch
+load @wavebond/drive/hatch/latch
   catch mine latch
-load @nerdbond/drive/hatch/mount
+load @wavebond/drive/hatch/mount
   catch mine mount
 
 mine view

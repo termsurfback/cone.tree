@@ -1,35 +1,35 @@
 
-load @nerdbond/crow/code/text/link/form
+load @wavebond/crow/code/text/link/form
   find mine form
 
-load @nerdbond/crow/code/text/link/task
+load @wavebond/crow/code/text/link/task
   find mine task
 
-load @nerdbond/crow/code/text/link/call
+load @wavebond/crow/code/text/link/call
   find mine call
 
-load @nerdbond/crow/code/text/link/hook
+load @wavebond/crow/code/text/link/hook
   find mine hook
 
-load @nerdbond/crow/code/text/link/host
+load @wavebond/crow/code/text/link/host
   find mine host
 
-load @nerdbond/crow/code/text/link/load
+load @wavebond/crow/code/text/link/load
   find mine load
 
-load @nerdbond/crow/code/text/link/dock
+load @wavebond/crow/code/text/link/dock
   find mine dock
 
-load @nerdbond/crow/code/text/link/test
+load @wavebond/crow/code/text/link/test
   find mine test
 
-load @nerdbond/crow/code/text/link/hold
+load @wavebond/crow/code/text/link/hold
   find mine hold
 
-load @nerdbond/crow/code/text/link/suit
+load @wavebond/crow/code/text/link/suit
   find mine suit
 
-load @nerdbond/crow/code/text/link/tree
+load @wavebond/crow/code/text/link/tree
   find mine tree
 
 mine code
