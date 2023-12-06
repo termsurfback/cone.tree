@@ -1,5 +1,5 @@
 
-load @wavebond/tree/code/link
+load @textsurf/tree/code/link
   take mine name
 
 mine deck

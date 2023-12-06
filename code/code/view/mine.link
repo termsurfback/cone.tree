@@ -1,7 +1,7 @@
 
-load @wavebond/drive/hatch/latch
+load @textsurf/drive/hatch/latch
   catch mine latch
-load @wavebond/drive/hatch/mount
+load @textsurf/drive/hatch/mount
   catch mine mount
 
 mine view
