@@ -1,5 +1,5 @@
 
-load @textsurf/mesh
+load @termsurf/mesh
   find deck
 
 mint deck

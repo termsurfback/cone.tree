@@ -1,35 +1,35 @@
 
-load @textsurf/crow/code/text/link/form
+load @termsurf/crow/code/text/link/form
   find mine form
 
-load @textsurf/crow/code/text/link/task
+load @termsurf/crow/code/text/link/task
   find mine task
 
-load @textsurf/crow/code/text/link/call
+load @termsurf/crow/code/text/link/call
   find mine call
 
-load @textsurf/crow/code/text/link/hook
+load @termsurf/crow/code/text/link/hook
   find mine hook
 
-load @textsurf/crow/code/text/link/host
+load @termsurf/crow/code/text/link/host
   find mine host
 
-load @textsurf/crow/code/text/link/load
+load @termsurf/crow/code/text/link/load
   find mine load
 
-load @textsurf/crow/code/text/link/dock
+load @termsurf/crow/code/text/link/dock
   find mine dock
 
-load @textsurf/crow/code/text/link/test
+load @termsurf/crow/code/text/link/test
   find mine test
 
-load @textsurf/crow/code/text/link/hold
+load @termsurf/crow/code/text/link/hold
   find mine hold
 
-load @textsurf/crow/code/text/link/suit
+load @termsurf/crow/code/text/link/suit
   find mine suit
 
-load @textsurf/crow/code/text/link/tree
+load @termsurf/crow/code/text/link/tree
   find mine tree
 
 mine code

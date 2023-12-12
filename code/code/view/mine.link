@@ -1,7 +1,7 @@
 
-load @textsurf/drive/hatch/latch
+load @termsurf/drive/hatch/latch
   catch mine latch
-load @textsurf/drive/hatch/mount
+load @termsurf/drive/hatch/mount
   catch mine mount
 
 mine view

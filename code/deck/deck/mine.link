@@ -1,5 +1,5 @@
 
-load @textsurf/tree/code/link
+load @termsurf/tree/code/link
   take mine name
 
 mine deck
