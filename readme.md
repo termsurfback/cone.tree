@@ -12,7 +12,7 @@
 
 <h3 align='center'>tree.note</h3>
 <p align='center'>
-  The BaseLink DSL Library
+  The BaseNote DSL Library
 </p>
 
 <br/>
