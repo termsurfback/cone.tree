@@ -7,10 +7,10 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/tree.note/blob/make/view/tree.svg?raw=true' height='256'>
+  <img src='https://github.com/termsurf/cone.note/blob/make/view/cone.svg?raw=true' height='256'>
 </p>
 
-<h3 align='center'>tree.note</h3>
+<h3 align='center'>cone.note</h3>
 <p align='center'>
   The BaseNote DSL Library
 </p>
@@ -22,11 +22,11 @@
 ## Usage
 
 ```
-base save @termsurf/tree
+base save @termsurf/cone
 ```
 
 ```
-load @termsurf/tree
+load @termsurf/cone
   find code
 
 role code
