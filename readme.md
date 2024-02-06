@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/cone.note/blob/make/view/cone.svg?raw=true' height='256'>
+  <img src='https://github.com/termsurf/cone.leaf/blob/make/view/cone.svg?raw=true' height='256'>
 </p>
 
-<h3 align='center'>cone.note</h3>
+<h3 align='center'>cone.leaf</h3>
 <p align='center'>
-  The BaseNote DSL Library
+  The SeedLeaf DSL Library
 </p>
 
 <br/>
@@ -22,7 +22,7 @@
 ## Usage
 
 ```
-base save @termsurf/cone
+seed save @termsurf/cone
 ```
 
 ```
