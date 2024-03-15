@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/cone.leaf/blob/make/view/cone.svg?raw=true' height='256'>
+  <img src='https://github.com/termsurf/cone.star/blob/make/view/cone.svg?raw=true' height='256'>
 </p>
 
-<h3 align='center'>cone.leaf</h3>
+<h3 align='center'>cone.star</h3>
 <p align='center'>
-  The SeedLeaf DSL Library
+  The Star DSL Library
 </p>
 
 <br/>
