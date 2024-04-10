@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/cone.star/blob/make/view/cone.svg?raw=true' height='256'>
+  <img src='https://github.com/termsurf/cone.tree/blob/make/view/cone.svg?raw=true' height='256'>
 </p>
 
-<h3 align='center'>cone.star</h3>
+<h3 align='center'>cone.tree</h3>
 <p align='center'>
-  The Star DSL Library
+  The BaseTree DSL Library
 </p>
 
 <br/>
