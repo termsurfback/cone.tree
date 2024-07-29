@@ -1,0 +1,27 @@
+
+mine link
+  mine term, term link
+    mine text
+      take link
+    mine find
+      mine form, form link-role
+        take role
+    mine find
+      mine form, form link-sort
+        take sort
+
+mine link-sort
+  mine term, term sort
+    mine text
+      take head
+    mine find
+      mine form, form link-role
+    mine list
+      mine form, form link-vibe
+
+mine link-role
+  mine term, term role
+    mine term
+      take name
+    mine list
+      mine form, form link-vibe

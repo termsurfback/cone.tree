@@ -12,7 +12,7 @@
 
 <h3 align='center'>cone.tree</h3>
 <p align='center'>
-  The BaseTree DSL Library
+  The NoteTree DSL Library
 </p>
 
 <br/>
